@@ -1,0 +1,8 @@
+
+[
+    {"id": 1, "name": "Altynbek"},
+    {"items": [1, 2, 3], "ok": true},
+    {"user": {"login": "Ernur", "age": 18}},
+    [{"id":1},{"id":2},{"id":3}],
+    {"city":"Almaty","coords":{"lat":43.2389,"lon":76.8897}}
+]
